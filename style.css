@@ -1,0 +1,1133 @@
+body
+{
+    background-color:#f5f5f5;
+    overflow: hidden;
+}
+.hide{
+    display: none;
+}
+.leftside
+{
+    background-color: rgb(17, 24, 39);
+    height: 100vh;
+    overflow: auto;
+    position: relative;
+}
+.rightside
+{
+    overflow: auto;
+    height: 100vh;
+    padding: 0 !important;
+    overflow-x: hidden;
+}
+.top
+{
+    background-color: rgb(26, 33, 47);
+    margin-top: 25px;
+    padding: 7px 0;
+    border-radius: 7px;
+    width: 90%;
+}
+.work h5
+{
+    color: white;
+    padding: 3px 20px;
+    font-size: 15px;
+    font-weight: 500;
+    
+}
+.work p
+{
+    color: white;
+    padding: 3px 20px;
+    font-size: 15px;
+    font-weight: 500;
+}
+.work
+{
+  padding: 20px 0;
+  border-bottom: 1px solid rgb(224, 224, 224);
+}
+.new1
+{
+    padding: 50px 0;
+}
+.new1 h6
+{
+    color: rgb(107, 114, 128);
+    padding: 0 10px;
+}
+.new1 .one
+{
+    color: white;
+}
+.new1 .btns
+{
+    background-color: rgb(16, 185, 129);
+    margin-top: 10px;
+    border: 0;
+    color: white;
+    border-radius: 12px;
+    font-size: 15px;
+    font-weight: 500;
+}
+
+.new1 a
+{
+    text-decoration: none;
+    color: white;
+    font-weight: 500;
+}
+.new1 a i
+{
+    padding: 15px 20px;
+}
+
+.first
+{
+    background-color: rgb(36, 42, 56);
+    border-radius: 7px;
+    width: 90%;
+    margin-bottom: 5px;
+}
+.sec:hover
+{
+    background-color: rgb(36, 42, 56);
+    border-radius: 7px;
+    width: 90%;
+}
+.sec .btns
+{
+    border: 0;
+    padding: 3px 8px;
+    border-radius: 17px;
+    color: white;
+    font-size: 12px;
+    background-color: rgb(16, 185, 129);
+}
+
+
+
+.new2
+{
+    padding: 50px 0;
+}
+.new2 h6
+{
+    color: rgb(107, 114, 128);
+    padding: 0 10px;
+}
+.new2 .one
+{
+    color: white;
+}
+
+.new2 a
+{
+    text-decoration: none;
+    color: white;
+    font-weight: 500;
+}
+.new2 .two
+{
+    color: white;
+    font-size: 15px;
+  /* padding: 0 68px; */
+}
+.new2 .two1
+{
+    color: white;
+    font-size: 15px;
+  /* padding: 0 79px; */
+}
+.new2 .two2
+{
+    color: white;
+    font-size: 15px;
+  /* padding: 0 97px; */
+}
+.new2 .two3
+{
+  color: white;
+  font-size: 15px;
+  /* padding: 0 93px; */
+}
+.new2 a i
+{
+    padding: 15px 20px;
+}
+.Second
+{
+    border-radius: 7px;
+    width: 90%;
+    margin-bottom: 5px;
+}
+.Second:hover
+{
+    background-color: rgb(36, 42, 56);
+    border-radius: 7px;
+    width: 90%;
+}
+
+.sec:hover
+{
+    background-color: rgb(36, 42, 56);
+    border-radius: 7px;
+    width: 90%;
+}
+
+
+.new3
+{
+    padding: 50px 0;
+}
+.new3 h6
+{
+    color: rgb(107, 114, 128);
+    padding: 0 10px;
+}
+.new3 .one
+{
+    color: white;
+}
+
+.new3 a
+{
+    text-decoration: none;
+    color: white;
+    font-weight: 500;
+}
+.new3 .two
+{
+    color: white;
+    font-size: 15px;
+  /* padding: 0 58px; */
+}
+.new3 .two1
+{
+    color: white;
+    font-size: 15px;
+  /* padding: 0 53px; */
+}
+.new3 .two2
+{
+    color: white;
+    font-size: 15px;
+  /* padding: 0 101px; */
+}
+.new3 a i
+{
+    padding: 15px 20px;
+}
+.Third
+{
+    border-radius: 7px;
+    width: 90%;
+    margin-bottom: 5px;
+}
+.Third:hover
+{
+    background-color: rgb(36, 42, 56);
+    border-radius: 7px;
+    width: 90%;
+}
+
+.sec:hover
+{
+    background-color: rgb(36, 42, 56);
+    border-radius: 7px;
+    width: 90%;
+}
+
+
+.new4
+{
+    padding: 50px 0;
+}
+.new4 h6
+{
+    color: rgb(107, 114, 128);
+    padding: 0 10px;
+}
+.new4 .one
+{
+    color: white;
+}
+
+.new4 a
+{
+    text-decoration: none;
+    color: white;
+    font-weight: 500;
+}
+.new4 .two
+{
+    color: white;
+    font-size: 15px;
+  /* padding: 0 75px; */
+}
+.new4 .two1
+{
+    color: white;
+    font-size: 15px;
+  /* padding: 0 45px; */
+}
+.new4 .two2
+{
+    color: white;
+    font-size: 15px;
+  /* padding: 0 100px; */
+}
+.new4 a i
+{
+    padding: 15px 20px;
+}
+.Fourth
+{
+    border-radius: 7px;
+    width: 90%;
+    margin-bottom: 5px;
+}
+.Fourth:hover
+{
+    background-color: rgb(36, 42, 56);
+    border-radius: 7px;
+    width: 90%;
+}
+
+.sec:hover
+{
+    background-color: rgb(36, 42, 56);
+    border-radius: 7px;
+    width: 90%;
+}
+
+
+.new5
+{
+    padding: 50px 0;
+    border-bottom: 1px solid white;
+}
+.new5 h6
+{
+    color: rgb(107, 114, 128);
+    padding: 0 10px;
+}
+.new5 .one
+{
+    color: white;
+}
+
+.new5 a
+{
+    text-decoration: none;
+    color: white;
+    font-weight: 500;
+}
+.new5 .two
+{
+    color: white;
+    font-size: 15px;
+  /* padding: 0 89px; */
+}
+.new5 .two1
+{
+    color: white;
+    font-size: 15px;
+  /* padding: 0 88px; */
+}
+
+.new5 a i
+{
+    padding: 15px 20px;
+}
+.Five
+{
+    border-radius: 7px;
+    width: 90%;
+    margin-bottom: 5px;
+}
+.Five:hover
+{
+    background-color: rgb(36, 42, 56);
+    border-radius: 7px;
+    width: 90%;
+}
+
+.sec:hover
+{
+    background-color: rgb(36, 42, 56);
+    border-radius: 7px;
+    width: 90%;
+}
+.bottoms
+{
+    padding: 30px 0;
+}
+.bottoms h6
+{
+    color: white;
+    font-weight: 400;
+}
+.bottoms p
+{
+    color: rgb(107, 114, 128);
+    font-weight: 400;
+}
+.bottoms  button
+{
+    padding: 8px !important;
+    border: 0;
+    width: 100%;
+    color: white;
+    font-weight: 600;
+    border-radius: 5px;
+    background-color: rgb(16, 185, 129);
+}
+
+.dropdown
+{
+   display: inline-block !important;
+}
+.drops
+{
+    border: 0;
+}
+.magnify
+{
+    display: inline-block !important;
+}
+.khan img
+
+{
+    border-radius: 50%;
+}
+.cased{
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+    height: 100vh;
+    overflow: overlay;
+}
+.case
+{
+    text-align: right;
+    /* width: 30%; */
+    margin-left: auto;
+    /* border: 2px solid black; */
+    /* background: rgb(73, 72, 71); */
+    padding: 10px 10px;
+    box-shadow: 1px 1px 1px 1px rgba(0, 0, 0, 0.2);
+}
+.head .container .row
+{
+    background-color: rgb(80, 72, 229);
+    border-radius: 20px;
+}
+.head img
+{
+    width: 100%;
+}
+.heads 
+{
+    margin-top: 70px;
+}
+.heads h2
+{
+    font-size: 35px;
+    font-weight: 700;
+}
+.heads .btn
+{
+    padding: 5px 20px;
+    border-radius: 5px;
+    color: rgb(80, 72, 229) !important;
+}
+.heads .bots
+{
+    padding: 5px 20px;
+    border-radius: 5px;
+    color: black !important;
+}
+button.bots
+{
+    background-color: white;
+} 
+
+.heads .dropdown
+{
+    border: 2px solid rgb(177, 177, 177);
+    border-radius: 5px;
+    color: rgb(80, 72, 229) !important;
+    background-color: white;
+}
+ .btnns
+{
+   border: 2px solid rgb(164, 160, 240) !important;
+}
+.heads .new
+{
+    text-align: right;
+}
+.hod
+{
+    margin-top: 50px;
+    background-color: rgb(80, 72, 229);
+    border-radius: 8px;
+    height: auto;
+}
+.hod img
+{
+    /* margin-top: 30px; */
+    width: 100%;
+}
+.hod .bot
+{
+    margin-top: 30px;
+    border: 0;
+    background-color: rgb(16, 185, 129);
+    color: white;
+    border-radius: 12px;
+    font-size: 15px;
+    font-weight: 500;
+    padding: 4px 10px;
+}
+.hod h3
+{
+    font-size: 32px;
+    color: white;
+    padding: 5px 0;
+    margin-top: 10px;
+}
+.hod p
+{
+    color: white;
+}
+.hod .boot
+{
+    border: 0;
+    background-color: rgb(16, 185, 129);
+    color: white;
+    border-radius: 8px;
+    font-size: 15px;
+    font-weight: 600;
+    padding: 8px 20px;
+    margin-bottom: 30px;
+}
+.lod
+{
+    padding-top: 40px;
+}
+.carddd
+{
+    background-color: white;
+    padding: 40px 20px;
+    border-radius: 10px 10px 0 0;
+}
+.lood1 h4
+{
+    color: #5048e5;
+    font-size: 30px;
+    font-weight: 700;
+}
+.lood2 h4
+{
+    color: #10b981;
+    font-size: 30px;
+    font-weight: 700;
+}
+.lood1 p
+{
+    color: #65748b;
+}
+.lood2 p
+{
+    color: #65748b;
+}
+.lood1 .uper
+{
+    padding: 15px 20px;
+    border-radius: 8px;
+    color: #3dc4b5;
+    background-color: #edf9f8;
+}
+.lood2 .uper
+{
+    color: #d96363;
+    border-radius: 8px;
+    padding: 15px 20px;
+    background-color: #fbf0f0;
+}
+.head55
+{
+    background-color: white;
+    border-top: 1px solid #e6e8f0;
+    border-bottom: 1px solid #e6e8f0;
+    border-radius: 0 0 10px 10px;
+    padding: 10px  30px ;
+}
+.head55 h5
+{
+    font-size: 15px;
+    color: #5048e5;
+}
+.head66
+{
+    margin-top: 50px;
+}
+.head66 h5
+{
+    font-size: 20px;
+    font-weight: 500;
+}
+.head66 p
+{
+    color: rgb(165, 162, 162);
+}
+.head66 h6
+{
+    color: rgb(165, 162, 162);
+}
+.head66 h4
+{
+    font-size: 600;
+    font-weight: bold;
+}
+.cardddd
+{
+    background-color: white;
+    padding: 20px 30px;
+    border-radius: 10px 10px 0 0;
+    
+}
+.down6
+{
+    background-color: white;
+    padding: 20px 30px; 
+    border-radius: 0 0 10px 10px;
+    border-top: 1px solid #e6e8f0;
+    border-bottom: 1px solid #e6e8f0;
+}
+.cardddd
+{
+    
+    background-color: white;
+    padding: 20px 30px; 
+    border-radius: 10px 10px 10px 10px;
+}
+.bbb
+{
+    text-align: left;
+}
+.ooo
+{
+    text-align: right;
+}
+.anas 
+{
+    color:#2f3eb1;
+    font-size: 18px;
+    font-weight:500;
+}
+.anas1
+{
+    color:#0c7cd5;
+    font-size: 18px;
+    font-weight:500;
+}
+.anas2 
+{
+    color:#83c986;
+    font-size: 18px;
+    font-weight:500;
+}
+.bbb span
+{
+    padding: 0 1px;
+    font-size: 15px;
+    font-weight:500;
+}
+.nicho h5
+{
+    font-size: 15px;
+}
+.nicho i
+{
+    color: #5048e5;
+    padding: 0 10px;
+    font-size: 20px;
+}
+.newtransition
+{
+    padding: 50px 0;
+}
+.toot1
+{
+    background-color: white;
+    padding: 25px 20px ;
+    border-radius: 10px 10px 0 0;
+}
+.nood
+{
+    background-color: white;
+    padding: 0 20px ;
+    border-bottom: rgb(212, 212, 212) 1px solid;
+    text-align: center;
+}
+.nood1
+{
+    background-color: white;
+    padding: 0 20px ;
+    border-bottom: rgb(212, 212, 212) 1px solid;
+    text-align: center;
+}
+.nood2
+{
+    background-color: white;
+    padding: 0 20px ;
+    border-bottom: rgb(212, 212, 212) 1px solid;
+    text-align: center;
+}
+.nood3
+{
+    background-color: white;
+    padding: 0 20px ;
+    border-radius: 0 0 10px 10px;
+    text-align: center;
+}
+.trans
+{
+    padding: 10px 25px;
+}
+.ddd
+{
+    padding: 0 50px;
+}
+.dd
+{
+    padding: 0 15px;
+}
+.ddd
+{
+    text-align: right;
+}
+.trans h5
+{
+    font-size: 15px;
+    font-weight: 600;
+}
+.nood h2
+{
+    background-color: rgb(224, 224, 224);
+    width: 40%;
+    text-align: center;
+    color: gray;
+    padding: 10px 0;
+    border-radius: 15px;
+    font-size: 13px;
+}
+.nood1 h2
+{
+    background-color: rgb(224, 224, 224);
+    width: 40%;
+    text-align: center;
+    color: gray;
+    padding: 10px 0;
+    border-radius: 15px;
+    font-size: 13px;
+}
+.nood2 h2
+{
+    background-color: rgb(224, 224, 224);
+    width: 40%;
+    text-align: center;
+    color: gray;
+    padding: 10px 0;
+    border-radius: 15px;
+    font-size: 13px;
+}
+.nood3 h2
+{
+    background-color: rgb(224, 224, 224);
+    width: 40%;
+    text-align: center;
+    color: gray;
+    padding: 10px 0;
+    font-size: 13px;
+    border-radius: 15px;
+    margin-top: 10px;
+}
+.nood .khaan
+{
+    margin-top: 15px;
+}
+.nood1 .khaan
+{
+    margin-top: 15px;
+}
+.nood2 .khaan
+{
+    margin-top: 15px;
+}
+.nood3.khaan
+{
+    margin-top: 15px;
+}
+.nood h3
+{
+    font-size: 15px;
+    margin-top: 15px;
+    text-align: left;
+}
+.nood1 h3
+{
+    font-size: 15px;
+    margin-top: 15px;
+    text-align: left;
+}
+.nood2 h3
+{
+    font-size: 15px;
+    margin-top: 15px;
+    text-align: left;
+}
+.nood3 h3
+{
+    font-size: 15px;
+    margin-top: 15px;
+    text-align: left;
+}
+.nood p
+{
+    color: gray;
+    font-size: 14px;
+    text-align: left;
+}
+.nood1 p
+{
+    color: gray;
+    font-size: 14px;
+    text-align: left;
+}
+.nood2 p
+{
+    color: gray;
+    font-size: 14px;
+    text-align: left;
+}
+.nood3 p
+{
+    color: gray;
+    font-size: 14px;
+    text-align: left;
+}
+.nood h4
+{
+    font-size: 15px;
+    margin-top: 25px;
+    color:rgb(63, 197, 175)  ;
+}
+.nood1 h4
+{
+    font-size: 15px;
+    margin-top: 25px;
+    color: rgb(192, 72, 72)  ;
+}
+.nood2 h4
+{
+    font-size: 15px;
+    margin-top: 25px;
+    color: rgb(192, 72, 72)  ;
+}
+.nood3 h4
+{
+    font-size: 15px;
+    margin-top: 25px;
+    color:rgb(63, 197, 175)  ;
+}
+.nood h5
+{
+    font-size: 12px;
+    text-align: center;
+    margin-top: 30px;
+    background-color: rgb(255, 145, 0) ;
+    color: white;
+    border-radius: 10px;
+    padding: 5px 0;
+}
+.nood1 h5
+{
+    font-size: 12px;
+    text-align: center;
+    margin-top: 30px;
+    background-color: rgb(63, 197, 175) ;
+    color: white;
+    border-radius: 10px;
+    padding: 5px 0;
+}
+.nood2 h5
+{
+    font-size: 12px;
+    text-align: center;
+    margin-top: 30px;
+    background-color: rgb(192, 72, 72) ;
+    color: white;
+    border-radius: 10px;
+    padding: 5px 0;
+}
+.nood3 h5
+{
+    font-size: 12px;
+    text-align: center;
+    margin-top: 30px;
+    background-color: rgb(255, 145, 0) ;
+    color: white;
+    border-radius: 10px;
+    padding: 5px 0;
+}
+.nood h6
+{
+    color: gray;
+    font-size: 14px;
+}
+.nood1 h6
+{
+    color: gray;
+    font-size: 14px;
+}
+.nood2 h6
+{
+    color: gray;
+    font-size: 14px;
+}
+.nood3 h6
+{
+    color: gray;
+    font-size: 14px;
+}
+
+/* new part  */
+.toot2
+{
+    background-color: white;
+    padding: 25px 20px ;
+    border-radius: 10px 10px 0 0;
+    border-bottom: rgb(212, 212, 212) 1px solid;
+}
+
+
+/* net 1  */
+.net1
+{
+    background-color: white;
+    padding: 10px 14px;
+    border-bottom: rgb(212, 212, 212) 1px solid;
+}
+.net1 img
+{
+    border-radius: 30px;
+}
+.net1 h4
+{
+    font-size: 12px;
+}
+.net1 h6
+{
+    font-size: 10px;
+    color: gray;
+}
+.net1 p
+{
+    font-size: 12px;
+    color: gray;
+}
+
+/* net 2  */
+.net2
+{
+    background-color: white;
+    padding: 10px 14px;
+    border-bottom: rgb(212, 212, 212) 1px solid;
+}
+.net2 img
+{
+    border-radius: 30px;
+}
+.net2 h4
+{
+    font-size: 12px;
+}
+.net2 h6
+{
+    font-size: 10px;
+    color: gray;
+}
+.net2 p
+{
+    font-size: 12px;
+    color: gray;
+}
+/* net 3  */
+.net3
+{
+    background-color: white;
+    padding: 10px 14px;
+    border-bottom: rgb(212, 212, 212) 1px solid;
+}
+.net3 img
+{
+    border-radius: 30px;
+}
+.net3 h4
+{
+    font-size: 12px;
+}
+.net3 h6
+{
+    font-size: 10px;
+    color: gray;
+}
+.net3 p
+{
+    font-size: 12px;
+    color: gray;
+}
+/* net 4  */
+.net4
+{
+    background-color: white;
+    padding: 10px 14px;
+    border-bottom: rgb(212, 212, 212) 1px solid;
+}
+.net4 img
+{
+    border-radius: 30px;
+}
+.net4 h4
+{
+    font-size: 12px;
+}
+.net4 h6
+{
+    font-size: 10px;
+    color: gray;
+}
+.net4 p
+{
+    font-size: 12px;
+    color: gray;
+}
+/* net 5  */
+.net5
+{
+    background-color: white;
+    padding: 10px 14px;
+    border-bottom: rgb(212, 212, 212) 1px solid;
+}
+.net5 img
+{
+    border-radius: 30px;
+}
+.net5 h4
+{
+    font-size: 12px;
+}
+.net5 h6
+{
+    font-size: 10px;
+    color: gray;
+}
+.net5 p
+{
+    font-size: 12px;
+    color: gray;
+}
+.khans
+{
+    background-color: white;
+    padding: 30px 40px;
+    border-radius: 0 0 10px 10px;
+}
+.khans h4
+{
+    color: rgb(71, 58, 255);
+    font-size: 15px;
+}
+
+
+/* last part  */
+.mood
+{
+    background-color: white;
+    padding: 20px 20px;
+    border-radius: 10px 10px 0 0;
+    border-bottom: rgb(212, 212, 212) 1px solid;
+}
+.mood1
+{
+    background-color: white;
+    padding: 20px 30px;
+    border-radius: 0 0 10px 10px ;
+    border-bottom: rgb(212, 212, 212) 1px solid;
+}
+.mood i
+{
+    padding: 2px 4px;
+    color: rgb(71, 58, 255);
+}
+.mood span
+{
+    color: rgb(71, 58, 255);
+}
+.mood h3
+{
+    margin-top: 10px;
+    font-size: 18px;
+}
+.mood p
+{
+    color: rgb(110, 110, 110);
+    font-size: 15px;
+}
+.mood1 i
+{
+    padding: 2px 4px;
+    color: rgb(71, 58, 255);
+}
+.mood1 span
+{
+    color: rgb(71, 58, 255);
+    padding: 5px 2px;
+}
+.trend
+{
+    padding-top: 50px;
+}
+.moto
+{
+    padding-top: 20px;
+}
+.dropdownBut{
+    display: none !important;
+}
+.cross{
+    color: white;
+    position: fixed;
+    top: 20px;
+    right: 30px;
+}
+
+
+@media only screen and (max-width: 768px) {
+    /* .leftside
+    {
+        display: none;
+    } */
+    .case {
+        text-align: center;
+    }
+    .dropdownBut{
+        display: inline-block !important;
+    }
+    
+
+}
